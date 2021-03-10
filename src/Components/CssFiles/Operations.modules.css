@@ -1,9 +1,10 @@
 .operations {
   width: 60vw;
   display: grid;
-  grid-template-rows: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 1fr);
   grid-template-columns: repeat(3, 1fr);
   margin: auto;
+  cursor: pointer;
 }
 
 .operations > button,

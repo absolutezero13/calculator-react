@@ -6,6 +6,7 @@
   margin: auto;
 }
 .number {
+  cursor: pointer;
   width: 20vw;
   height: 4rem;
   font-size: 3rem;

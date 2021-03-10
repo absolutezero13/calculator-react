@@ -6,6 +6,11 @@
   background: rgb(11, 11, 109);
   color: white;
   box-shadow: 2px 3px 6px rgb(3, 8, 78);
+  outline: none;
+}
+
+::placeholder {
+  color: white;
 }
 
 @media only screen and (max-width: 800px) {

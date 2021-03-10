@@ -10,5 +10,8 @@ body {
 
 .App {
   font-size: 3rem;
-  margin-top: 5%;
+}
+
+.calculator {
+  padding-top: 3rem;
 }

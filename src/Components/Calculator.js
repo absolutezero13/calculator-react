@@ -46,7 +46,7 @@ class Calculator extends React.Component {
   }
   render() {
     return (
-      <div>
+      <div className="calculator">
         <InputField value={this.state.inputValue} />
         <NumberButtons clicked={this.numberHandler} />
         <Operations
